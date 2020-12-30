@@ -1,0 +1,3 @@
+﻿  Arclight.cpp
+C:\Users\USUARIO\OneDrive - Centro de Enseñanza Técnica Industrial\Escritorio\Arclight\Arclight.cpp(8,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'jugador' cuando no hay ninguna variable declarada
+  Arclight.vcxproj -> C:\Users\USUARIO\OneDrive - Centro de Enseñanza Técnica Industrial\Escritorio\Arclight\Debug\Arclight.exe
