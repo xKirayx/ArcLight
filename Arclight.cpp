@@ -26,7 +26,7 @@ int main()
 {
     jugador player[1];
     player[0].checkpoint = 0;
-    finalDelDia1RutaV(player);
+    probarJuego(player);
 }
 
 //Termina en 4 y 203
@@ -163,7 +163,7 @@ void ruta1(jugador player[]) {
         }
     } while ((opc < 1) || (opc > 3));
 }//
-//Recuerda actualizar index al terminar una ruta.Actual 2 y 201.
+//Recuerda actualizar index al terminar una ruta.Actual 3 y 202.
 void index(jugador player[]) {
     switch (player[0].checkpoint) {
     case 0:
